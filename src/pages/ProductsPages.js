@@ -8,7 +8,7 @@ const ProductsPages = () => {
     const params = useParams()
 
     return ( 
-        <Title title ={params.prouctname} pageName='Products'/>
+        <Title title ={params.productname} pageName='Products'/>
      );
 }
  

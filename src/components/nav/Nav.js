@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 //image import
 import Logo from '../../images/Logo.png';
 
+//Navigationsbar auf jeder Seite
 const Navigation = () => {
     return ( 
         <nav>
