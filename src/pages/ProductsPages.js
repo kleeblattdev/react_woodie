@@ -9,7 +9,7 @@ const ProductsPages = () => {
 
     return ( 
         <Title title ={params.productname} pageName='Products'/>
-     );
+    );
 }
- 
+
 export default ProductsPages;

@@ -1,6 +1,6 @@
 import Title from "../components/title/Title";
 
-const About = (item) => {
+const About = () => {
     return ( 
         <>
         <Title title="Who we Are" pageName="About Us"/>

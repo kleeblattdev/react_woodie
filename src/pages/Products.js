@@ -3,12 +3,11 @@ import ProductCard from "../components/productCard/ProductCard";
 
 //library import
 import { v4 as uuidv4 } from 'uuid';
-import { Link } from 'react-router-dom'
 
 //import data
 import products from '../data/Data';
 
-const Products = (item) => {
+const Products = () => {
     return ( 
         <>
         <div className="flex">
